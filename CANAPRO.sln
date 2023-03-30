@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CANAPRO", "CANAPRO\CANAPRO.csproj", "{27EB10CA-0C7B-4AD8-A752-B9D828F55ACD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup CanaproAp", "Setup CanaproAp\Setup CanaproAp.vdproj", "{E8F8252E-D74B-4575-8409-4493E8969A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EB10CA-0C7B-4AD8-A752-B9D828F55ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EB10CA-0C7B-4AD8-A752-B9D828F55ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EB10CA-0C7B-4AD8-A752-B9D828F55ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EB10CA-0C7B-4AD8-A752-B9D828F55ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F8252E-D74B-4575-8409-4493E8969A66}.Debug|Any CPU.ActiveCfg = Debug
+		{E8F8252E-D74B-4575-8409-4493E8969A66}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4143F3C-9B0F-4869-A28E-7E001F196F25}
+	EndGlobalSection
+EndGlobal
